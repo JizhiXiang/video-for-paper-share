@@ -36,3 +36,69 @@ Draft and Edit: Automatic Storytelling Through Multi-Pass Hierarchical Condition
 论文链接：https://www.aaai.org/Papers/AAAI/2020GB/AAAI-YuM.8133.pdf   
   
 正在更新中…  
+
+
+## NLP文本匹配 - 论文合集15篇
+DSSM：CIKM2013 | Learning Deep Structured Semantic Models for Web Search using Clickthrough Data  
+博客原文：https://blog.csdn.net/weixin_38526306/article/details/88425997  
+论文链接：http://www.ifp.illinois.edu/~huang146/papers/cikm2013_DSSM_fullversion.pdf  
+  
+CDSSM：WWW2014 | Learning Semantic Representations Using Convolutional Neural Networks for Web Search  
+博客原文：https://blog.csdn.net/sxf1061926959/article/details/89344251  
+论文链接：http://www.iro.umontreal.ca/~lisa/bib/pub_subject/finance/pointeurs/WWW2014.pdf  
+  
+MAP、MRR、NDCG  
+博客原文：https://www.jianshu.com/p/82be426f776e  
+https://www.cnblogs.com/shenxiaolin/p/9309749.html  
+  
+HCAN：EMNLP2019 | Bridging the Gap between Relevance Matching and Semantic Matching for Short Text Similarity Modeling  
+博客原文：https://www.cnblogs.com/shona/p/12396721.html  
+论文链接：https://jinfengr.github.io/publications/Rao_etal_EMNLP2019.pdf  
+  
+InferSent：EMNLP2017 | Supervised Learning of Universal Sentence Representations from Natural Language Inference Data  
+博客原文：https://blog.csdn.net/sinat_31188625/article/details/77992960  
+论文链接：https://arxiv.org/abs/1705.02364  
+  
+SSE：EMNLP2017 | Shortcut-Stacked Sentence Encoders for Multi-Domain Inference  
+论文链接：https://arxiv.org/abs/1708.02312v2  
+  
+SiamCNN：ASRU2015 | Applying deep learning to answer selection: A study and an open task  
+博客原文：https://blog.csdn.net/u010960155/article/details/86540960  
+论文链接：https://arxiv.org/abs/1508.01585  
+  
+SiamLSTM：AAAI2016 | Siamese Recurrent Architectures for Learning Sentence Similarity  
+博客原文：https://www.jianshu.com/p/f3d0d94a4913  
+论文链接：https://www.researchgate.net/publication/307558687_Siamese_Recurrent_Architectures_for_Learning_Sentence_Similarity  
+  
+Multi-view：2016 EMNLP | Multi-view Response Selection for Human-Computer Conversation  
+博客原文：https://zhuanlan.zhihu.com/p/66365985  
+论文链接：https://www.aclweb.org/anthology/D16-1036.pdf  
+  
+MatchCNN：AAAI2016 | Text Matching as Image Recognition  
+论文链接：https://arxiv.org/abs/1602.06359  
+  
+DecAtt：EMNLP2016 | A Decomposable Attention Model for Natural Language Inference  
+博客原文：https://blog.csdn.net/weixin_38526306/article/details/88550624  
+论文链接：https://arxiv.org/abs/1606.01933v2  
+  
+CompAgg：ICLR2017 | A COMPARE-AGGREGATE MODEL FOR MATCHING TEXT SEQUENCES  
+博客原文：https://zhuanlan.zhihu.com/p/27805225  
+论文链接：https://arxiv.org/pdf/1611.01747.pdf  
+  
+ESIM：ACL2017 | Enhanced LSTM for Natural Language Inference  
+论文链接：https://arxiv.org/abs/1609.06038  
+  
+PWIM：2016 Pairwise Word Interaction Modeling with Deep Neural Networks for Semantic Similarity Measurement  
+论文链接：https://www.aclweb.org/anthology/N16-1108.pdf  
+  
+2018 COLING | Neural Network Models for Paraphrase Identification, Semantic Textual Similarity, Natural Language Inference, and Question Answering 
+博客原文：https://zhuanlan.zhihu.com/p/38459823   
+论文链接：https://arxiv.org/abs/1806.04330  
+  
+DAM：ACL2018 | Multi-Turn Response Selection for Chatbots with Deep Attention Matching Network  
+博客原文：https://blog.csdn.net/zhucuankuan2669/article/details/83002423  
+论文链接：https://www.aclweb.org/anthology/P18-1103/  
+  
+转：文本匹配相关方向打卡点总结（数据，场景，论文，开源工具）  
+https://zhuanlan.zhihu.com/p/87384188  
+  
